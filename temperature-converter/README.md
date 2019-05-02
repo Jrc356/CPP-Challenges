@@ -16,7 +16,7 @@ Please give in a step, 0 < step <= 10: 4
 
   
 
-Celsius &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fahrenheit
+Celsius &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fahrenheit  
 \-\-\-\-\-\-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-\-\-\-\-\-\-\-\-\-
 
 10.000000&nbsp;&nbsp;&nbsp;&nbsp;50.000000
